@@ -2,19 +2,19 @@
 
 ## Go to Day to See appointments
 
-![days](https://github.com/saka01/scheduler/blob/master/pics/days.JPG)
+![days](https://github.com/saka01/scheduler/blob/master/pics/days.jpeg)
 
 ## Book new appointment
 
-![new](https://github.com/saka01/scheduler/blob/master/pics/new.JPG)
+![new](https://github.com/saka01/scheduler/blob/master/pics/new.jpeg)
 
 ## Edit appointment
 
-![edit](https://github.com/saka01/scheduler/blob/master/pics/edit.JPG)
+![edit](https://github.com/saka01/scheduler/blob/master/pics/edit.jpeg)
 
 ## Delete appointment
 
-![delete](https://github.com/saka01/scheduler/blob/master/pics/delete.JPG)
+![delete](https://github.com/saka01/scheduler/blob/master/pics/delete.jpeg)
 
 ## Setup
 
